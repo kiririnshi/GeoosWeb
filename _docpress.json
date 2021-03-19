@@ -1,0 +1,260 @@
+{
+  "toc": {
+    "sections": [
+      {
+        "title": "Geoos",
+        "source": "README.md",
+        "url": "index.html",
+        "slug": "index",
+        "headings": [
+          {
+            "title": "Tabla de contenidos",
+            "depth": 2,
+            "id": "tabla-de-contenidos"
+          },
+          {
+            "title": "Introducción",
+            "depth": 2,
+            "id": "introduccion"
+          },
+          {
+            "title": "Prerrequisitos",
+            "depth": 2,
+            "id": "prerrequisitos"
+          },
+          {
+            "title": "¿Como puedo obtener Geoos?",
+            "depth": 2,
+            "id": "como-puedo-obtener-geoos"
+          }
+        ]
+      },
+      {
+        "title": "Instalacion",
+        "sections": [
+          {
+            "title": "Instalacion con Node",
+            "source": "docs/instalacion/node.md",
+            "url": "instalacion/node.html",
+            "slug": "instalacionnode"
+          },
+          {
+            "title": "Instalacion con Docker",
+            "source": "docs/instalacion/docker.md",
+            "url": "instalacion/docker.html",
+            "slug": "instalaciondocker"
+          }
+        ]
+      },
+      {
+        "title": "Utilizacion",
+        "sections": [
+          {
+            "title": "Manual de uso",
+            "source": "docs/manual/manual.md",
+            "url": "manual/manual.html",
+            "slug": "manualmanual",
+            "headings": [
+              {
+                "title": "Descripcion",
+                "depth": 2,
+                "id": "descripcion"
+              },
+              {
+                "title": "Tabla de contenidos",
+                "depth": 2,
+                "id": "tabla-de-contenidos",
+                "headings": [
+                  {
+                    "title": "Mi panel",
+                    "depth": 3,
+                    "id": "mi-panel"
+                  },
+                  {
+                    "title": "Agregar capas",
+                    "depth": 3,
+                    "id": "agregar-capas"
+                  },
+                  {
+                    "title": "Agregar objetos",
+                    "depth": 3,
+                    "id": "agregar-objetos"
+                  },
+                  {
+                    "title": "Agregar estaciones",
+                    "depth": 3,
+                    "id": "agregar-estaciones"
+                  },
+                  {
+                    "title": "Buscar localidad",
+                    "depth": 3,
+                    "id": "buscar-localidad"
+                  },
+                  {
+                    "title": "Mapa 3D",
+                    "depth": 3,
+                    "id": "mapa-3d"
+                  },
+                  {
+                    "title": "Terreno y nubosidad",
+                    "depth": 3,
+                    "id": "terreno-y-nubosidad"
+                  },
+                  {
+                    "title": "Configuraciones",
+                    "depth": 3,
+                    "id": "configuraciones"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Arquitectura",
+        "sections": [
+          {
+            "title": "Esquema de componentes",
+            "source": "docs/arquitectura/arquitectura.md",
+            "url": "arquitectura/arquitectura.html",
+            "slug": "arquitecturaarquitectura"
+          }
+        ]
+      },
+      {
+        "title": "Customizacion",
+        "sections": [
+          {
+            "title": "Customizacion",
+            "source": "docs/customizacion/customizacion.md",
+            "url": "customizacion/customizacion.html",
+            "slug": "customizacioncustomizacion"
+          }
+        ]
+      }
+    ]
+  },
+  "index": {
+    "index.html": {
+      "source": "README.md",
+      "title": "Geoos",
+      "pageTitle": "Geoos",
+      "slug": "index",
+      "headings": [
+        {
+          "title": "Tabla de contenidos",
+          "depth": 2,
+          "id": "tabla-de-contenidos"
+        },
+        {
+          "title": "Introducción",
+          "depth": 2,
+          "id": "introduccion"
+        },
+        {
+          "title": "Prerrequisitos",
+          "depth": 2,
+          "id": "prerrequisitos"
+        },
+        {
+          "title": "¿Como puedo obtener Geoos?",
+          "depth": 2,
+          "id": "como-puedo-obtener-geoos"
+        }
+      ]
+    },
+    "instalacion/node.html": {
+      "source": "docs/instalacion/node.md",
+      "title": "Instalacion con Node - Geoos",
+      "pageTitle": "Instalacion con Node",
+      "slug": "instalacionnode"
+    },
+    "instalacion/docker.html": {
+      "source": "docs/instalacion/docker.md",
+      "title": "Instalacion con Docker - Geoos",
+      "pageTitle": "Instalacion con Docker",
+      "slug": "instalaciondocker"
+    },
+    "manual/manual.html": {
+      "source": "docs/manual/manual.md",
+      "title": "Manual de uso - Geoos",
+      "pageTitle": "Manual de uso",
+      "slug": "manualmanual",
+      "headings": [
+        {
+          "title": "Descripcion",
+          "depth": 2,
+          "id": "descripcion"
+        },
+        {
+          "title": "Tabla de contenidos",
+          "depth": 2,
+          "id": "tabla-de-contenidos",
+          "headings": [
+            {
+              "title": "Mi panel",
+              "depth": 3,
+              "id": "mi-panel"
+            },
+            {
+              "title": "Agregar capas",
+              "depth": 3,
+              "id": "agregar-capas"
+            },
+            {
+              "title": "Agregar objetos",
+              "depth": 3,
+              "id": "agregar-objetos"
+            },
+            {
+              "title": "Agregar estaciones",
+              "depth": 3,
+              "id": "agregar-estaciones"
+            },
+            {
+              "title": "Buscar localidad",
+              "depth": 3,
+              "id": "buscar-localidad"
+            },
+            {
+              "title": "Mapa 3D",
+              "depth": 3,
+              "id": "mapa-3d"
+            },
+            {
+              "title": "Terreno y nubosidad",
+              "depth": 3,
+              "id": "terreno-y-nubosidad"
+            },
+            {
+              "title": "Configuraciones",
+              "depth": 3,
+              "id": "configuraciones"
+            }
+          ]
+        }
+      ]
+    },
+    "arquitectura/arquitectura.html": {
+      "source": "docs/arquitectura/arquitectura.md",
+      "title": "Esquema de componentes - Geoos",
+      "pageTitle": "Esquema de componentes",
+      "slug": "arquitecturaarquitectura"
+    },
+    "customizacion/customizacion.html": {
+      "source": "docs/customizacion/customizacion.md",
+      "title": "Customizacion - Geoos",
+      "pageTitle": "Customizacion",
+      "slug": "customizacioncustomizacion"
+    }
+  },
+  "sources": {
+    "README.md": "index.html",
+    "docs/instalacion/node.md": "instalacion/node.html",
+    "docs/instalacion/docker.md": "instalacion/docker.html",
+    "docs/manual/manual.md": "manual/manual.html",
+    "docs/arquitectura/arquitectura.md": "arquitectura/arquitectura.html",
+    "docs/customizacion/customizacion.md": "customizacion/customizacion.html"
+  }
+}
